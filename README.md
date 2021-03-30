@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Hugo projects
 - 👯 I’m looking to collaborate on Hugo projects
-- 💬 Ask me about anything, collaboration, hiring, etc.. by opening an issue on this readme file 
+- 💬 Ask me about anything (collaboration, hiring etc.. ) by opening an issue on this readme file 
