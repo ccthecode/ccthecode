@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Hugo projects
+- 🔭 I’m currently working on Frontend projects, mostly on Hugo
 - 👯 I’m looking to collaborate on Hugo projects
 - 💬 Ask me about anything (collaboration, hiring etc.. ) by opening an [issue](https://github.com/ccthecode/ccthecode/issues) on this readme file 
