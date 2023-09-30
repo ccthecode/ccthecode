@@ -5,5 +5,6 @@
 -->
 
 - 🔭 I’m currently working on Frontend projects, mostly on Hugo, React, NextJS, etc
-- 👯 I’m looking to collaborate on web related projects: Websites, Landing Pages, Blogs, Web Apps, etc
+- 👯 I’m looking to collaborate on web related projects: Websites, Landing Pages, Blogs, Web Apps, etc.
+- Currently Learning how to integrate AI LLMs into the frontend. 
 - 💬 Feel free to send me a DM on [twitter](https://twitter.com/ccthecode)
