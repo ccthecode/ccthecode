@@ -5,5 +5,5 @@
 -->
 
 - 🔭 I’m currently working on Full Stack Projects, mostly on NextJS, Hugo, React, etc
-- 👯 I’m looking to collaborate on web related projects: Websites, Landing Pages, Blogging Platform, Web Application, AI ML Application & Workflow, etc.
+- 👯 I’m looking to collaborate on web related projects: Websites, Landing Pages, Blogging Platform, Web Application, AI ML Applications & Workflow, etc.
 - 💬 Feel free to send me a DM on [twitter](https://twitter.com/ccthecode)
